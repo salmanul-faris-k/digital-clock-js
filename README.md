@@ -1,7 +1,3 @@
-Nice project 👍 This clock actually looks clean and deploy-ready.
-Below is a **perfect, recruiter-friendly README** you can **copy–paste directly** into your `README.md`.
-
----
 
 ## ⏰ Digital Clock
 
