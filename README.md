@@ -18,7 +18,7 @@ A modern and responsive digital clock that displays real-time hours, minutes, an
 👉 https://digitalclock-peach.vercel.app
 
 ## 📸 Preview
-![Digital Clock Preview]
+
 <img width="1909" height="885" alt="Screenshot 2026-02-10 160113" src="https://github.com/user-attachments/assets/33bd4173-c7da-468f-9501-b15eb1644618" />
 
 ## 📂 How to Use
